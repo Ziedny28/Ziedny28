@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Ziedny28
-- 👀 I’m interested in idk can't tell  ...
-- 🌱 I’m currently learning java c# ...
-- 💞️ I’m looking to collaborate on project? ...
-- 📫 How to reach me idk ...
+- 👋 Hi, I’m Ziedny
+- 👀 I’m interested in learning game development and web development
+- 🌱 I’m currently learning unity and laravel
+- 💞️ 
+- 📫 
 
 <!---
 Ziedny28/Ziedny28 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
