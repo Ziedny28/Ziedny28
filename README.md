@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ziedny</h1>
 <h3 align="center">A game development and web development enthusiast from indonesia, also interested in learning machine learning, mobile development, computer vision, and data science</h3>
-![gif](https://i.pinimg.com/originals/07/2d/16/072d16ed0af6e1c8152f982a1340cf6a.gif)
 
 - 🔭 I’m currently a student of **Politeknik Negeri Malang**
 
