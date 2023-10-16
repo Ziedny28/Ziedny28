@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently a student of **Politeknik Negeri Malang**
 
-- 🌱 I’m currently learning **Unity, VR, Python, Flutter, Dart**
+- 🌱 I’m currently learning **Unity, VR, Python, Flutter, Dart, Rust, Bevy**
 
 - 💬 Ask me about **Unity**
 
