@@ -12,7 +12,7 @@
 - ⚡ Fun fact **We're all waiting for godot**
 
 <p align="left">
-<a href="bit.ly/3GDDojq" target="blank">check out my game dev portfolio here👆</a>
+<a href="https://www.bit.ly/3GDDojq" target="blank">check out my game dev portfolio here👆</a>
 </p>
 
 <h3 align="left">Connect with me:</h3>
